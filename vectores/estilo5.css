@@ -1,0 +1,38 @@
+h1{
+    background-color: #aa8024;
+    border-radius: 30px;
+    color: #553b13;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.res{
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+    color: #ff6600;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: center;
+    background: #b5b1a9;
+}
+input{
+    background-color: rgb(255, 189, 189);
+    padding: 15px 5px;
+    
+}
+button{	
+    background-color: #86430c;/* Green */
+    border: black;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+div{
+    padding: 15px;
+    margin: 5px;
+    font-size: 35px;
+
+}
